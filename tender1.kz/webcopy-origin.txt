@@ -1,0 +1,260 @@
+Uri: https://mc.yandex.ru/watch/55344565
+File Name: E:\Alash\tender1.kz\watch\55344565
+Content Type: image/gif
+
+Uri: https://tender1.kz/
+File Name: E:\Alash\tender1.kz\index.htm
+Content Type: text/html
+
+Uri: https://tender1.kz/app.min.css
+File Name: E:\Alash\tender1.kz\app.min.css
+Content Type: text/css
+
+Uri: https://tender1.kz/custom.js
+File Name: E:\Alash\tender1.kz\custom.js
+Content Type: application/javascript
+
+Uri: https://tender1.kz/fonts/8289.OTF
+File Name: E:\Alash\tender1.kz\fonts\8289.OTF
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: https://tender1.kz/fonts/GothamPro-Black.ttf
+File Name: E:\Alash\tender1.kz\fonts\GothamPro-Black.ttf
+Content Type: application/octet-stream
+
+Uri: https://tender1.kz/fonts/GothamPro-Bold.ttf
+File Name: E:\Alash\tender1.kz\fonts\GothamPro-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://tender1.kz/fonts/GothamPro-Light.ttf
+File Name: E:\Alash\tender1.kz\fonts\GothamPro-Light.ttf
+Content Type: application/octet-stream
+
+Uri: https://tender1.kz/fonts/GothamPro-Medium.ttf
+File Name: E:\Alash\tender1.kz\fonts\GothamPro-Medium.ttf
+Content Type: application/octet-stream
+
+Uri: https://tender1.kz/fonts/GothaProNarMed.otf
+File Name: E:\Alash\tender1.kz\fonts\GothaProNarMed.otf
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: https://tender1.kz/img/1.png
+File Name: E:\Alash\tender1.kz\img\1.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/12.png
+File Name: E:\Alash\tender1.kz\img\12.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/13.png
+File Name: E:\Alash\tender1.kz\img\13.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/14.png
+File Name: E:\Alash\tender1.kz\img\14.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/arrow.png
+File Name: E:\Alash\tender1.kz\img\arrow.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/atom.png
+File Name: E:\Alash\tender1.kz\img\atom.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/bg1.png
+File Name: E:\Alash\tender1.kz\img\bg1.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/bg2.png
+File Name: E:\Alash\tender1.kz\img\bg2.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/bg3.png
+File Name: E:\Alash\tender1.kz\img\bg3.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/bg4.png
+File Name: E:\Alash\tender1.kz\img\bg4.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/bg5.png
+File Name: E:\Alash\tender1.kz\img\bg5.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/bg6.png
+File Name: E:\Alash\tender1.kz\img\bg6.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/change.png
+File Name: E:\Alash\tender1.kz\img\change.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/hand1.png
+File Name: E:\Alash\tender1.kz\img\hand1.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/hand2.png
+File Name: E:\Alash\tender1.kz\img\hand2.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/imgLines.png
+File Name: E:\Alash\tender1.kz\img\imgLines.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/know.png
+File Name: E:\Alash\tender1.kz\img\know.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/laptop.png
+File Name: E:\Alash\tender1.kz\img\laptop.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/laptop2.png
+File Name: E:\Alash\tender1.kz\img\laptop2.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/laptop3.png
+File Name: E:\Alash\tender1.kz\img\laptop3.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/laptopBig.png
+File Name: E:\Alash\tender1.kz\img\laptopBig.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/line-h.png
+File Name: E:\Alash\tender1.kz\img\line-h.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/logoBlack.png
+File Name: E:\Alash\tender1.kz\img\logoBlack.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/logoWhite.png
+File Name: E:\Alash\tender1.kz\img\logoWhite.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/modal.png
+File Name: E:\Alash\tender1.kz\img\modal.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/premium.png
+File Name: E:\Alash\tender1.kz\img\premium.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/premiumText.png
+File Name: E:\Alash\tender1.kz\img\premiumText.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/standard.png
+File Name: E:\Alash\tender1.kz\img\standard.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/standardText.png
+File Name: E:\Alash\tender1.kz\img\standardText.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/text.png
+File Name: E:\Alash\tender1.kz\img\text.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/tro.png
+File Name: E:\Alash\tender1.kz\img\tro.png
+Content Type: image/png
+
+Uri: https://tender1.kz/img/zoom.png
+File Name: E:\Alash\tender1.kz\img\zoom.png
+Content Type: image/png
+
+Uri: https://tender1.kz/lib/aos-master/dist/aos.css
+File Name: E:\Alash\tender1.kz\lib\aos-master\dist\aos.css
+Content Type: text/css
+
+Uri: https://tender1.kz/lib/aos-master/dist/aos.js
+File Name: E:\Alash\tender1.kz\lib\aos-master\dist\aos.js
+Content Type: application/javascript
+
+Uri: https://tender1.kz/lib/bootstrap/css/bootstrap.min.css
+File Name: E:\Alash\tender1.kz\lib\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://tender1.kz/lib/bootstrap/js/bootstrap.min.js
+File Name: E:\Alash\tender1.kz\lib\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://tender1.kz/lib/font-awesome/css/font-awesome.min.css
+File Name: E:\Alash\tender1.kz\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://tender1.kz/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: E:\Alash\tender1.kz\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tender1.kz/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: E:\Alash\tender1.kz\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tender1.kz/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: E:\Alash\tender1.kz\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://tender1.kz/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: E:\Alash\tender1.kz\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://tender1.kz/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: E:\Alash\tender1.kz\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://tender1.kz/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: E:\Alash\tender1.kz\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://tender1.kz/lib/input-mask.js
+File Name: E:\Alash\tender1.kz\lib\input-mask.js
+Content Type: application/javascript
+
+Uri: https://tender1.kz/lib/jquery-form/jquery.form.min.js
+File Name: E:\Alash\tender1.kz\lib\jquery-form\jquery.form.min.js
+Content Type: application/javascript
+
+Uri: https://tender1.kz/lib/JQuery/jquery-3.3.1.min.js
+File Name: E:\Alash\tender1.kz\lib\JQuery\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://tender1.kz/lib/swiper-4.4.6/dist/css/swiper.min.css
+File Name: E:\Alash\tender1.kz\lib\swiper-4.4.6\dist\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://tender1.kz/lib/swiper-4.4.6/dist/js/swiper.min.js
+File Name: E:\Alash\tender1.kz\lib\swiper-4.4.6\dist\js\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://tender1.kz/lib/typed.js
+File Name: E:\Alash\tender1.kz\lib\typed.js
+Content Type: application/javascript
+
+Uri: https://tender1.kz/offerta_rules/dogovor_premium.docx
+File Name: E:\Alash\tender1.kz\offerta_rules\dogovor_premium.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://tender1.kz/offerta_rules/dogovor_standart.docx
+File Name: E:\Alash\tender1.kz\offerta_rules\dogovor_standart.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://tender1.kz/offerta_rules/dogovor_tr.docx
+File Name: E:\Alash\tender1.kz\offerta_rules\dogovor_tr.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://tender1.kz/offerta_rules/dogovor_vip.docx
+File Name: E:\Alash\tender1.kz\offerta_rules\dogovor_vip.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://tender1.kz/offerta_rules/index.html
+File Name: E:\Alash\tender1.kz\offerta_rules\index.html
+Content Type: text/html
+
+Uri: https://tender1.kz/privacy/index.html
+File Name: E:\Alash\tender1.kz\privacy\index.html
+Content Type: text/html
+
